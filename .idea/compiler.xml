@@ -10,6 +10,10 @@
         <module name="pet-clinic-data" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sfg" target="1.8" />
+      <module name="sfg-pet-" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
