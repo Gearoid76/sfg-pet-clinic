@@ -1,4 +1,4 @@
-package sfgpetclinic.model;
+package model;
 
 public class Pet {
     private PetType petType;
